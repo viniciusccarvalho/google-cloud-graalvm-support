@@ -66,6 +66,8 @@ Related projects:
 
 *  [Quarkus Extension for Google Cloud Services](https://github.com/quarkiverse/quarkiverse-google-cloud-services) - Enables usage of Google Cloud libraries in Quarkus applications.
 
+* [Micronaut GCP Integration](https://micronaut-projects.github.io/micronaut-gcp/snapshot/guide/index.html) - Using Google Cloud libraries with micronaut native applications.
+
 Please let us know if you are interested in collaborating by contacting us via our [Issue Tracker](https://github.com/GoogleCloudPlatform/google-cloud-graalvm-support/issues).
 
 ## Questions
